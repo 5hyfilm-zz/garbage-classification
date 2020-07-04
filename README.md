@@ -2,7 +2,7 @@
 
 ## Classification Report
 <center>
-<img src="https://github.com/filmerxyz/GarbageClassification/blob/master/readme_image/image1.png" width="445" height="339 class="center"/>
+<img src="https://github.com/filmerxyz/GarbageClassification/blob/master/readme_image/image1.png" width="445" height="339 alt="centered image"/>
 </center>                                                                                                                                       
 
 ## How to test your sample
