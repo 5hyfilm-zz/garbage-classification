@@ -1,9 +1,9 @@
 # Garbage Classification
 
 ## Classification Report
-![alt text](https://github.com/filmerxyz/GarbageClassification/tree/master/readme_image)
+![alt text](https://github.com/filmerxyz/GarbageClassification/blob/master/readme_image/image1.png)
 
 ## How to test your sample
 Test your sample in ```test_notebook.ipynb``` by run all cell then upload your sample, you will see the model prediction and Grad-CAM.
 
-![alt text](2)
+![alt text](https://github.com/filmerxyz/GarbageClassification/blob/master/readme_image/image2.png)
